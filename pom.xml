@@ -7,6 +7,11 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>internetbanking-webapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
+  <properties>
+    <jdk.version>1.8</jdk.version>
+    <spring.version></spring.version>
+    <sonar.host.url>http://34.132.225.202:9000/</sonar.host.url>
+    </properties>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
