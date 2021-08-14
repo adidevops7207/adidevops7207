@@ -10,7 +10,7 @@
   <properties>
     <jdk.version>1.8</jdk.version>
     <spring.version></spring.version>
-    <sonar.host.url>http://34.132.225.202:9000/</sonar.host.url>
+    <sonar.host.url>http://35.223.54.160:9000/</sonar.host.url>
     </properties>
   <dependencies>
     <dependency>
